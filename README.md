@@ -39,5 +39,6 @@
 
 ## 下载🎉
 
+- [jmusic_1.0.2_x64-setup.exe](./1.0.1/jmusic_1.0.2_x64-setup.exe)
 - [jmusic_1.0.1_x64-setup.exe](./1.0.1/jmusic_1.0.1_x64-setup.exe)
 - [jmusic_1.0.0_x64-setup.exe](./1.0.0/jmusic_1.0.0_x64-setup.exe)
