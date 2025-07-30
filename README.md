@@ -2,9 +2,9 @@
 
 ## 功能🧩
 
-### 音乐信息编辑✨
+### 音乐信息修改✨
 
-音乐标题、艺术家、唱片集、专辑封面等元数据修改。
+音乐标题、艺术家、唱片集、专辑封面等音乐元数据修改。
 
 ### 歌词显示✨
 
@@ -18,7 +18,7 @@
 
 ### 专辑图显示✨
 
-自动加载歌曲内置专辑图显示。
+自动加载歌曲内置专辑图显示，支持修改歌曲封面图（专辑图可在各大音乐平台保存）。
 
 ### 操作说明✨
 
@@ -30,7 +30,7 @@
 
 ## 下载🎉
 
-- [jmusic_1.0.4_x64-setup.exe](https://raw.githubusercontent.com/zhchjiang95/JMusic/main/1.0.4/jmusic_1.0.4_x64-setup.exe)
+- [jmusic_1.0.5_x64-setup.exe](https://raw.githubusercontent.com/zhchjiang95/JMusic/main/1.0.5/jmusic_1.0.5_x64-setup.exe)
 
 ## 开发🎨
 
