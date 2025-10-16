@@ -30,7 +30,7 @@
 
 ## 下载🎉
 
-- [jmusic_1.0.6_x64-setup.exe](https://raw.githubusercontent.com/zhchjiang95/JMusic/main/1.0.5/jmusic_1.0.6_x64-setup.exe)
+- [jmusic_1.0.6_x64-setup.exe](https://raw.githubusercontent.com/zhchjiang95/JMusic/main/1.0.6/jmusic_1.0.6_x64-setup.exe)
 
 ## 开发🎨
 
