@@ -30,7 +30,7 @@
 
 ## 下载🎉
 
-- [jmusic_1.0.5_x64-setup.exe](https://raw.githubusercontent.com/zhchjiang95/JMusic/main/1.0.5/jmusic_1.0.5_x64-setup.exe)
+- [jmusic_1.0.6_x64-setup.exe](https://raw.githubusercontent.com/zhchjiang95/JMusic/main/1.0.5/jmusic_1.0.6_x64-setup.exe)
 
 ## 开发🎨
 
@@ -39,7 +39,7 @@
 - [React 18](https://zh-hans.react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [HeroUI](https://www.heroui.com/)
-- [Tailwindcss](https://v3.tailwindcss.com/)
+- [Tailwindcss](https://tailwindcss.com/)
 
 ## UI🌼
 
